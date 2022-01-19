@@ -1,5 +1,5 @@
 <h1> Data-Analysis-and-Visualization </h1>
-The repo aims to document my learning road of Data analysis and data visuals. 
+The repo aims to document my learning journey of Data analysis and data visuals. 
 I work on tasks on a weekly basis. An overview of the details of the weekly contents can be found below.
 
 ### Technologies
