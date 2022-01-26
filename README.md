@@ -13,4 +13,4 @@ I work on tasks on a weekly basis. An overview of the details of the weekly cont
 
 #### [Week 2](https://github.com/safiulalam99/Data-Analysis-and-Visualization/blob/main/Week%2002.pdf)
 - Drawing relations between datasets to create better visualizations.
-- Using superstore dataset as case study to analyse real life actionable steps to improve business sales.
+- Using [superstore](https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls) dataset as case study to analyse real life actionable steps to improve business sales.
