@@ -23,3 +23,6 @@ I work on tasks on a weekly basis. An overview of the details of the weekly cont
 #### [Week 4](https://github.com/safiulalam99/Data-Analysis-and-Visualization/blob/main/Week%2004.pdf)
 - Cleaning datasets for easy implementation of data for visualization or analysis.
 - Using [stat.fi](https://pxnet2.stat.fi/PXWeb/pxweb/en/StatFin/StatFin__lii__merek/statfin_merek_pxt_11al.px/) First registrations of vehicles, 1999-2022 dataset
+
+#### [Week 5](https://github.com/safiulalam99/Data-Analysis-and-Visualization/blob/main/Week%2005.pdf)
+- Descriptive statistics, frequency diagrams, Normal distribution
